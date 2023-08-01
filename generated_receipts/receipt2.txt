@@ -1,0 +1,13 @@
+Order ID: 2
+
+Products:
+
+	Name: Football Shirt
+	Price: $140.1
+	ID: 3IO70MVHY5Z
+
+	Name: Boxing gloves
+	Price: $85.4
+	ID: AY1G767SIKC
+
+Total: $225.5

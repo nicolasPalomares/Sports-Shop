@@ -1,0 +1,21 @@
+Order ID: 3
+
+Products:
+
+	Name: Motocross helmet
+	Price: $460.4
+	ID: 6UQHAKT3JUQ
+
+	Name: Mountain bike wheel
+	Price: $1290.75
+	ID: J2AWITQQSWS
+
+	Name: Basketball ball
+	Price: $120.0
+	ID: WOPYC9HVZ7J
+
+	Name: Ski boards
+	Price: $1964.55
+	ID: ZJ6L532ZP6U
+
+Total: $3835.7

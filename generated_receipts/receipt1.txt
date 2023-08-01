@@ -1,0 +1,17 @@
+Order ID: 1
+
+Products:
+
+	Name: Football ball
+	Price: $300.7
+	ID: 1BZ6HBITBB3
+
+	Name: Hair band
+	Price: $32.0
+	ID: V82YWI5DW37
+
+	Name: Running Sneakers
+	Price: $700.0
+	ID: AT432TFR671
+
+Total: $1032.7
